@@ -1,6 +1,6 @@
 # Проект jbpm-prom-grafana-nginx
 
-Данный compose-файл запускает jbpm и grafana через nginx. Jbpmn настроен на работу с СУБД postgres.
+Данный compose-файл запускает jbpm и grafana через nginx. Nginx настроен на проксирование запросов к jbpm и grafana. Jbpmn настроен на работу с СУБД postgres.
 Grafana настроена на работу с Prometheus. Внутри Grafana настроен Node Exporter Quickstart and Dashboard для отображение метрик из Prometheus.
 Prometheus забирает метрики с host машины через node-exporter.
 
