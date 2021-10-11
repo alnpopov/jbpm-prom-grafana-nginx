@@ -8,4 +8,8 @@ Prometheus забирает метрики с host машины через node-
  - git clone https://github.com/alnpopov/jbpm-prom-grafana-nginx.git
  - docker-compose up
  - доступ к jbpm через http://{IP_ADDR}/business-central/
+ логин wbadmin
+ пароль wbadmin
  - доступ к grafana через http://{IP_ADDR}/grafana/
+ логин admin
+ пароль admin
