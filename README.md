@@ -14,3 +14,5 @@ Prometheus забирает метрики с host машины через node-
  - логин/пароль admin
 
 ![grafana](https://user-images.githubusercontent.com/70564689/136741346-22d79ffa-640b-4490-99bf-49a7752dde85.png)
+
+![jbpm](https://user-images.githubusercontent.com/70564689/136741895-63ca91de-66b3-4967-a111-cf41150b2376.png)
